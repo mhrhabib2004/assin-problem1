@@ -1,5 +1,4 @@
 function checkName(inArray){
-    // console.log(inArray);
 if (typeof inArray !== 'string' ){
     return 'invalid';
 }
